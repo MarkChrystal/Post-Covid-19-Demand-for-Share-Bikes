@@ -15,7 +15,7 @@ The company wants to know:
  - How well those variables describe the bike demands
 
 
-This regression and RFE modelling notebook works through the pre-processing of the data, which is provided (day.csv), iterates through the modeling processing, and reaches a conclusion in terms of the best drivers and answers to the questions the Company is seeking.
+This regression and RFE modelling notebook works through the pre-processing of the data, which is provided (day.csv), iterates through the modeling process, and reaches a conclusion in terms of the best drivers and answers to the questions the Company is seeking.
 
 Hopefully this is a good guide for those attempting similar types of analysis.
 
